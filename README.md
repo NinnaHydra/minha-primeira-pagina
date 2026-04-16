@@ -11,13 +11,10 @@ Este é meu primeiro projeto em HTML, feito no 1º período da faculdade de Aná
 - Foto
 - Objetivos
 
-## 💻 Tecnologias usadas:
-- HTML
-
 ## 🎯 Objetivo do projeto:
 Praticar estrutura básica de HTML e organização de conteúdo.
 
-## • Tecnologias
+## 💻 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </div>
